@@ -27,7 +27,7 @@ let current_pos_test = [
   two_arg_func_test "Player: name = 'Eleanor', position = 0" 
     current_pos state_3 "Eleanor" string_of_int 0;
   two_arg_func_test "Player: name = 'Sam', position = 0" 
-    current_pos state_2 "Sam" string_of_int 0;
+    current_pos state_3 "Sam" string_of_int 0;
 ]
 
 let init_state_board_test
